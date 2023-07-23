@@ -1,0 +1,28 @@
+.header__lang-links {
+    text-decoration: none;
+    margin: 18px 0 6px auto;
+    padding: 0;
+    display: flex;
+    list-style: none;
+}
+
+
+@media  (min-width: 769px) and (max-width: 1024px) {
+    .header__lang-links {
+      margin: 18px 0 6px auto;
+        }
+      }
+      
+      
+   @media  (min-width: 321px) and (max-width: 768px){
+    .header__lang-links {
+      margin: 18px 0 6px auto;
+        }
+      }
+      
+      
+   @media (max-width: 320px) {
+    .header__lang-links {
+      margin: 14px 0 8px auto;
+        }
+      }

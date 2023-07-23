@@ -1,0 +1,31 @@
+.footer__link {
+  color: #FFFFFF;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-right: 18px;
+
+}
+
+@media (min-width: 1024px) and (max-width: 1279px) {
+  .footer__link {
+    
+  }
+
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  .footer__link {
+    
+  }
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+  .footer__link {
+    font-size: 24px;
+    line-height: 24px;
+  }
+}

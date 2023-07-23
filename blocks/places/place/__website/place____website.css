@@ -1,0 +1,25 @@
+.place__website {
+  margin: 0 0 8px 0;
+  align-self: end;
+}
+
+
+@media (min-width: 1024px) and (max-width: 1279px) {
+  .place__website {
+  
+  }
+}
+
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  .place__website {
+   
+  }
+}
+
+
+@media (min-width: 320px) and (max-width: 767px) {
+  .place__website {
+    margin-left: 16px;
+  }
+}

@@ -1,0 +1,31 @@
+.cover {
+  position: relative;
+  display: inline-block; 
+  margin: 0 48px 92px 48px;
+  width: 1280px;
+
+
+}
+
+
+@media (min-width: 1024px) and (max-width: 1279px) {
+  .cover {
+    margin: 0 0 92px 0;
+  }
+}
+
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  .cover {
+    margin: 0 0 88px 0;
+    max-width: 100%;
+  }
+}
+
+
+@media (min-width: 320px) and (max-width: 767px) {
+  .cover {
+   max-width: 320px;
+   margin: 0 0 64px 0;
+  }
+}
