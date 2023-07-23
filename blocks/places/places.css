@@ -13,14 +13,14 @@
 @media (min-width: 768px) and (max-width: 1023px) {
   .places {
     max-width: calc(100% - 48px);
-    margin-bottom: 90px ;
-  }
+    margin-bottom: 90px;
+    }
 }
 
 
 @media (min-width: 320px) and (max-width: 767px) {
   .places {
-    margin-bottom: 66px ;
+    margin-bottom: 66px;
   }
 }
 
