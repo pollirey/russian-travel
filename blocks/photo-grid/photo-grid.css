@@ -10,7 +10,7 @@
 @media (min-width: 1280px) {
   .photo-grid {
     grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: repeat(3, 1fr); 
+    grid-template-rows: repeat(3, 1fr);
     grid-gap: 12px;
     margin-bottom: 92px;
   }
@@ -46,6 +46,5 @@
     grid-template-rows: repeat(12, 1fr); 
     margin-left: 16px;
     margin-right: 16px;
-    
   }
 }
